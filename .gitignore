@@ -1,3 +1,5 @@
-.vs
-Debug
-Release
+!/BullCowGame/Debug
+!/BullCowGame/Release
+/.vs
+/Debug
+/Release
